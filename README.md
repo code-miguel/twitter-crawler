@@ -1,2 +1,2 @@
 # twitter-crawler
-interact with Twitter's API
+interact with Twitter
